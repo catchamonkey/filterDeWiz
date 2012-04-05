@@ -1,0 +1,1 @@
+{"name":"Filterdewiz","body":"### FilterDeWiz!\r\nComing soon\r\n\r\n```js\r\n$.filterDeWiz.filter({\r\n    'input':          'input_id',\r\n    'match_within':   'h3',\r\n    'parent_element': 'div.article'\r\n});\r\n```","tagline":"Allows simple filtering of existing elements","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
